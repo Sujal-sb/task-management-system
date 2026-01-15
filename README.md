@@ -122,8 +122,6 @@ The frontend will run on `http://localhost:3000`
 - `DELETE /api/tasks/:id` - Delete task
 - `GET /api/tasks/stats` - Get task statistics
 
-## API Request Examples
-
 ## Features in Detail
 
 ### Task Filters
