@@ -14,12 +14,12 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:5000',
-        description: 'Development server',
+        url: 'https://task-management-system-5nk4.onrender.com',
+        description: 'Production (Render)',
       },
       {
-        url: 'https://api.taskmanagementsystem.com',
-        description: 'Production server (replace with actual URL)',
+        url: 'http://localhost:5000',
+        description: 'Local development',
       },
     ],
     components: {
